@@ -1,3 +1,5 @@
+/// Author: Maciej Wiraszka
+
 #include "PasRuchu.h"
 
 PasRuchu::PasRuchu(int czuj, int cz, int zo, int zi)
