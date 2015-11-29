@@ -1,3 +1,5 @@
+/// Author: Maciej Wiraszka
+
 #ifndef PAS_RUCHU_H
 #define PAS_RUCHU_H
 
